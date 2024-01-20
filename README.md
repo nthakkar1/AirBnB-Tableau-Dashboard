@@ -3,4 +3,4 @@ Average Booking price in areas based on the room type.
 Months which see highest bookings.
 And several other information is available.
 
-Link to Dataset : https://public.tableau.com/app/profile/nirbhay.thakkar/viz/AirBNBAnalysis_17051010101440/Dashboard1
+Link to Dashboard : https://public.tableau.com/app/profile/nirbhay.thakkar/viz/AirBNBAnalysis_17051010101440/Dashboard1
